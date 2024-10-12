@@ -1,0 +1,14 @@
+D:\C#Series\arrays\bin\Debug\net8.0\arrays.exe
+D:\C#Series\arrays\bin\Debug\net8.0\arrays.deps.json
+D:\C#Series\arrays\bin\Debug\net8.0\arrays.runtimeconfig.json
+D:\C#Series\arrays\bin\Debug\net8.0\arrays.dll
+D:\C#Series\arrays\bin\Debug\net8.0\arrays.pdb
+D:\C#Series\arrays\obj\Debug\net8.0\arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Series\arrays\obj\Debug\net8.0\arrays.AssemblyInfoInputs.cache
+D:\C#Series\arrays\obj\Debug\net8.0\arrays.AssemblyInfo.cs
+D:\C#Series\arrays\obj\Debug\net8.0\arrays.csproj.CoreCompileInputs.cache
+D:\C#Series\arrays\obj\Debug\net8.0\arrays.dll
+D:\C#Series\arrays\obj\Debug\net8.0\refint\arrays.dll
+D:\C#Series\arrays\obj\Debug\net8.0\arrays.pdb
+D:\C#Series\arrays\obj\Debug\net8.0\arrays.genruntimeconfig.cache
+D:\C#Series\arrays\obj\Debug\net8.0\ref\arrays.dll
