@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#Series\\first\\First.csproj": {}
+    "D:\\C#Series\\First\\First.csproj": {}
   },
   "projects": {
-    "D:\\C#Series\\first\\First.csproj": {
+    "D:\\C#Series\\First\\First.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#Series\\first\\First.csproj",
+        "projectUniqueName": "D:\\C#Series\\First\\First.csproj",
         "projectName": "First",
-        "projectPath": "D:\\C#Series\\first\\First.csproj",
+        "projectPath": "D:\\C#Series\\First\\First.csproj",
         "packagesPath": "C:\\Users\\COLLINS\\.nuget\\packages\\",
-        "outputPath": "D:\\C#Series\\first\\obj\\",
+        "outputPath": "D:\\C#Series\\First\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\COLLINS\\AppData\\Roaming\\NuGet\\NuGet.Config"
