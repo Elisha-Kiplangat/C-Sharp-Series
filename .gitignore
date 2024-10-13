@@ -1,0 +1,52 @@
+
+bin/
+obj/
+
+
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+
+.vs/
+*.cache
+*.pdb
+*.pidb
+*.userprefs
+*.tlog
+*.log
+*.ilk
+*.meta
+*.tmp
+*.ide/
+.idea/
+*.dbmdl
+*.jfm
+_ReSharper*/
+*.sln.DotSettings
+
+# Ignore Rider IDE specific files
+.idea/
+*.sln.iml
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+# Packages directory can be ignored when not committed
+packages/
+# If using Paket
+paket-files/
+paket.exe
+paket.lock
+.paket/
+
+.nuget/
+
+publish/
+out/
+artifacts/
+
+appsettings.json
+appsettings.Development.json
