@@ -40,3 +40,87 @@ string newMessage = new String(message);
 
 Console.WriteLine(newMessage);
 Console.WriteLine($"'o' appears {letterCount} times.");
+
+int employeeLevel = 200;
+string employeeName = "John Doe";
+
+string title = "";
+
+switch (employeeLevel)
+{
+    case 100:
+        title = "Junior Associate";
+        break;
+    case 200:
+        title = "Associate";
+        break;
+    case 300:
+        title = "Senior Associate";
+        break;
+    case 400:
+        title = "Manager";
+        break;
+    case 500:
+        title = "Senior Manager";   
+        break;
+    case 600:
+        title = "Director";
+        break;
+    default:
+        title = "Unknown";
+        break;
+}
+
+Console.WriteLine($"{employeeName} is an {title}.");
+
+string names = "01-MN-L";
+string[] product = sku.Split('-'); 
+
+string type = "";
+string color = "";
+string size = "";
+
+switch (product[0])
+{
+    case "01":
+        type = "Sweatshirt";
+        break;
+    case "02":
+        type = "T-Shirt";
+        break;
+    case "03":
+        type = "Sweatpants";
+        break;
+    default:
+        type = "other";
+        break;
+}
+
+switch (product[1]) {
+    case "MN":
+        color = "Maroon";
+        break;
+    case "BL":
+        color = "Black";
+        break;
+    default:
+        color = "white";
+        break;
+}
+
+switch (product[2]) {
+    case "S":
+        size = "Small";
+        break;
+    case "M":
+        size = "Medium";
+        break;
+    case "L":
+        size = "Large";
+        break;
+    default:
+        size = "one size fits all";
+        break;
+}
+
+Console.WriteLine($"Product: {size} {color} {type}");
