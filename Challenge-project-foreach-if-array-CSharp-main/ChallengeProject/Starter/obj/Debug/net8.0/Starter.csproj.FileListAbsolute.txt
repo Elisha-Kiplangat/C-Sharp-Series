@@ -1,0 +1,15 @@
+D:\C#Series\Challenge-project-foreach-if-array-csharp-main\ChallengeProject\starter\bin\Debug\net8.0\Starter.exe
+D:\C#Series\Challenge-project-foreach-if-array-csharp-main\ChallengeProject\starter\bin\Debug\net8.0\Starter.deps.json
+D:\C#Series\Challenge-project-foreach-if-array-csharp-main\ChallengeProject\starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\C#Series\Challenge-project-foreach-if-array-csharp-main\ChallengeProject\starter\bin\Debug\net8.0\Starter.dll
+D:\C#Series\Challenge-project-foreach-if-array-csharp-main\ChallengeProject\starter\bin\Debug\net8.0\Starter.pdb
+D:\C#Series\Challenge-project-foreach-if-array-csharp-main\ChallengeProject\starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Series\Challenge-project-foreach-if-array-csharp-main\ChallengeProject\starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\C#Series\Challenge-project-foreach-if-array-csharp-main\ChallengeProject\starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\C#Series\Challenge-project-foreach-if-array-csharp-main\ChallengeProject\starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\C#Series\Challenge-project-foreach-if-array-csharp-main\ChallengeProject\starter\obj\Debug\net8.0\Starter.sourcelink.json
+D:\C#Series\Challenge-project-foreach-if-array-csharp-main\ChallengeProject\starter\obj\Debug\net8.0\Starter.dll
+D:\C#Series\Challenge-project-foreach-if-array-csharp-main\ChallengeProject\starter\obj\Debug\net8.0\refint\Starter.dll
+D:\C#Series\Challenge-project-foreach-if-array-csharp-main\ChallengeProject\starter\obj\Debug\net8.0\Starter.pdb
+D:\C#Series\Challenge-project-foreach-if-array-csharp-main\ChallengeProject\starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\C#Series\Challenge-project-foreach-if-array-csharp-main\ChallengeProject\starter\obj\Debug\net8.0\ref\Starter.dll
