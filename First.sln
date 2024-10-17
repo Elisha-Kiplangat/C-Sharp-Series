@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data-type-choices", "Data-type-choices\Data-type-choices.csproj", "{BBD26B99-56BA-4E06-AED4-DD50F25EBDAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array-operations", "Array-operations\Array-operations.csproj", "{36F12687-AF3B-4224-BC1B-92250290C561}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{BBD26B99-56BA-4E06-AED4-DD50F25EBDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBD26B99-56BA-4E06-AED4-DD50F25EBDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBD26B99-56BA-4E06-AED4-DD50F25EBDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36F12687-AF3B-4224-BC1B-92250290C561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F12687-AF3B-4224-BC1B-92250290C561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F12687-AF3B-4224-BC1B-92250290C561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F12687-AF3B-4224-BC1B-92250290C561}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
