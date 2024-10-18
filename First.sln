@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data-type-choices", "Data-t
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array-operations", "Array-operations\Array-operations.csproj", "{36F12687-AF3B-4224-BC1B-92250290C561}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formating", "Formating\Formating.csproj", "{64A37677-769E-4A86-A8E9-560A138675D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{31DE2CCA-23CF-4187-8103-0CA770081EAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +52,13 @@ Global
 		{36F12687-AF3B-4224-BC1B-92250290C561}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36F12687-AF3B-4224-BC1B-92250290C561}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36F12687-AF3B-4224-BC1B-92250290C561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64A37677-769E-4A86-A8E9-560A138675D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A37677-769E-4A86-A8E9-560A138675D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A37677-769E-4A86-A8E9-560A138675D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A37677-769E-4A86-A8E9-560A138675D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31DE2CCA-23CF-4187-8103-0CA770081EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31DE2CCA-23CF-4187-8103-0CA770081EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31DE2CCA-23CF-4187-8103-0CA770081EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31DE2CCA-23CF-4187-8103-0CA770081EAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
